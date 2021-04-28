@@ -1,0 +1,36 @@
+
+.addButton {
+    background: #7AB97A;
+    color: #fff;
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: 40% 30% auto;
+    margin-bottom: 10px;
+}
+
+.headingContainer {
+    margin: 30px 0 30px 0;
+    width: 100%;
+}
+
+.gridItem {
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 1.5rem;
+    word-wrap: break-word;
+    padding-right: 10px;
+ 
+}
+
+.name, .phone {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #808080;
+    text-transform: uppercase;
+
+} 
+.deleteButton {
+    background: #F69B9B;
+    color: black;
+}
